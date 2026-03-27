@@ -6,7 +6,8 @@ I spend most of my free time playing video games, board games, tabletop roleplay
 
 ## CV
 [Download CV](https://github.com/Garvinator2000/portfolio/blob/main/Ben%20Garvey%20CV%202026.pdf)
-<a href="https://github.com/Garvinator2000/portfolio/blob/main/Ben%20Garvey%20CV%202026.pdf" download>Download File</a>
+<a id="raw-url" 
+  href="https://github.com/Garvinator2000/portfolio/blob/main/Ben%20Garvey%20CV%202026.pdf">Download CV</a>
 
 ## todo
 - make paragraph above more readable
