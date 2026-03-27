@@ -8,5 +8,5 @@ I spend most of my free time playing video games, board games, tabletop roleplay
 ### [Download CV](https://github.com/Garvinator2000/portfolio/blob/main/Ben%20Garvey%20CV%202026.pdf)
 
 ## What I'm Working On
-Currently I have no pojects in progress. I am studying computer science level 6 at Dundrum College, with aspirations to move up to a level 8 Game Design course next year. 
+Currently I have no pojects in progress. I am studying computer science level 6 at Dundrum College, with aspirations to move up to a level 8 Game Design course next year.   
 I created [this website](https://garvinator2000.github.io/Tony-Pepperoni-s-Family-Pizzeria2/) for one of my class projects.
