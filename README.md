@@ -1,4 +1,4 @@
-# Portfolio  
+# Portfolio   
 Heya, I'm Ben! I am a computer science student who enjoys playing tabletop and video games, and I aspire to contribute my own work to those genres.
 ---
 ## About Me
